@@ -1,2 +1,2 @@
 # fcc-solutions
-Solutions to  challenges (bonfires) on freecodecamp.com
+Solutions to  challenges on [Free Code Camp](http://freecodecamp.com).
